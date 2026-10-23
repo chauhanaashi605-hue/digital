@@ -1,0 +1,6 @@
+{
+  "name": "GramTrack — Rural Housing & Panchayat Monitoring",
+  "description": "Digital Rural Housing & Gram Panchayat Development Monitoring System with geo-tagged stage inspection, offline IndexedDB sync, duplicate detection, and instalment tracking.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
